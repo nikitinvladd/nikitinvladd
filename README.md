@@ -6,6 +6,6 @@
 
 - 💻 Feel free to checkout my [portfolio](https://vladnikitin.vercel.app/) website!
 - 🏢 Software Engineer (Full Stack), in Warsaw
-- 🧰 I build with: `React` `Python` `Django`, `JavaScript`, `Tailwind` ...
+- 🧰 I build with: `React` `Java` `Spring Boot`, `JavaScript`, `Tailwind` ...
 - ⚡ I enjoy travel, reading, and lifting weights :)
 - 📫 Reach out to me: nikwlad11@gmail.com
