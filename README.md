@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UCyGuJFHIbTcn2tqF_H1KVsg)
 
 - 💻 Feel free to checkout my [portfolio](https://vladnikitin.vercel.app/) website!
-- 🏢 Software Engineer (Full Stack), in Warsaw
+- 🏢 Software Engineer (Frontend), in Warsaw
 - 🧰 I build with: `React` `Java` `Spring Boot`, `JavaScript`, `Tailwind` ...
 - ⚡ I enjoy travel, reading, and lifting weights :)
 - 📫 Reach out to me: nikwlad11@gmail.com
